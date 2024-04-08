@@ -1,3 +1,3 @@
 # TIDYTUESDAY!
 
-My code and plots for #tidytuesday, the weekly data visualization challenge. Sometimes in R, sometimes in Python. 
+My code and plots for #tidytuesday, the weekly data visualization challenge. Sometimes in R, sometimes in Python, and sometimes Excel. 
