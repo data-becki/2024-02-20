@@ -5,3 +5,5 @@ Data is from October 2023 from a survey of viewers on YouTube for the "Great Ame
 The data was cleaned to remove one-hot encoding (may be interesting for ML? Other models?), clean up the column names, and remove the flavorings column which was empty.
 
 **This week's question: Do you think participants in this survey are representative of Americans in general?**
+
+I loathe coffee, so this should be "interesting".
