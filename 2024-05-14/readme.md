@@ -6,4 +6,6 @@ The data was cleaned to remove one-hot encoding (may be interesting for ML? Othe
 
 **This week's question: Do you think participants in this survey are representative of Americans in general?**
 
-I loathe coffee, so this should be "interesting".
+I also used census data from https://www.census.gov/data/tables/2023/demo/age-and-sex/2023-age-sex-composition.html for a comparison of ages.
+
+[Coffee Survey Ages](Coffee_Survey.png)
